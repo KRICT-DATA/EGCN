@@ -1,4 +1,4 @@
-# Data list
+# Dataset list
 1. ESOL [1]
 2. FreeSolv [2]
 3. Lipophilicity [3]
